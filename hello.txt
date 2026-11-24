@@ -8,3 +8,6 @@ git status
 
 
 Now in feature-1
+
+
+Added to remote. state commit and push.
