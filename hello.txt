@@ -1,1 +1,7 @@
 "Hello Git!" 
+git init
+git status
+git add .
+git status
+git commit - m "comment"
+git status
