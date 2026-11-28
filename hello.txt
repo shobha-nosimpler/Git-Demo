@@ -13,3 +13,9 @@ Now in feature-1
 Added to remote. state commit and push.
 
 Added this in remote repo and did commit. This line will appear after (fetch and merge) or pull.
+
+Again modify and commit. On local do git status, git diff main origin/main - you will not see the changes made in remote.
+Do git fetch then git diff main origin/main - now it show the changes but still file is not updated
+Do git merge origin/main - after the final merge you will see the changes in local.
+Note. Without fetch, merge will not update the file. Or do git pull (which is fetch + merge)
+
