@@ -11,3 +11,5 @@ Now in feature-1
 
 
 Added to remote. state commit and push.
+
+Added this in remote repo and did commit. This line will appear after (fetch and merge) or pull.
